@@ -1,5 +1,5 @@
 # Quora-Insincere-Questions-Classification
-Quora Insincere Questions Classification Project Under Mr. Sri Phani Krishna Karri at NIT AP.
+Quora Insincere Questions Classification Project Under Dr. Sri Phani Krishna Karri at NIT AP.
 
 DATA SOURCE - https://www.kaggle.com/c/quora-insincere-questions-classification/data <br />
 
