@@ -1,10 +1,10 @@
 # Quora-Insincere-Questions-Classification
-Quora Insincere Questions Classification Project Under Mr. Sri Phani Krishna Karri at NIT AP
+Quora Insincere Questions Classification Project Under Mr. Sri Phani Krishna Karri at NIT AP.
 
-DATA SOURCE - https://www.kaggle.com/c/quora-insincere-questions-classification/data
-RESEARCH PAPER - http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26647500.pdf
-LIBRARIES - pandas, numpy, matplotlib, seaborn, natural language processsing toolkit, regular expression, textblob, wordcloud, PIL, tensorflow, Keras, scikit learn, collections (will keep updating them).
-PREPROCESSING TECHNIQUES - 
+DATA SOURCE - https://www.kaggle.com/c/quora-insincere-questions-classification/data <br />
+RESEARCH PAPER - http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26647500.pdf <br />
+LIBRARIES - pandas, numpy, matplotlib, seaborn, natural language processsing toolkit, regular expression, textblob, wordcloud, PIL, tensorflow, Keras, scikit learn, collections (will keep updating them).<br />
+PREPROCESSING TECHNIQUES -
 1.Lowercasing
 2.Removing HTML
 3.Removing Email-id
