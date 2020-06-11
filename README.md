@@ -3,7 +3,18 @@ Quora Insincere Questions Classification Project Under Mr. Sri Phani Krishna Kar
 
 DATA SOURCE - https://www.kaggle.com/c/quora-insincere-questions-classification/data
 RESEARCH PAPER - http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26647500.pdf
-Libraries - pandas, numpy, matplotlib, seaborn, natural language processsing toolkit, regular expression, textblob, wordcloud,
-            PIL, tensorflow, Keras, scikit learn, collections (will keep updating them).
-
+LIBRARIES - pandas, numpy, matplotlib, seaborn, natural language processsing toolkit, regular expression, textblob, wordcloud, PIL, tensorflow, Keras, scikit learn, collections (will keep updating them).
+PREPROCESSING TECHNIQUES - 
+1.Lowercasing
+2.Removing HTML
+3.Removing Email-id
+4.Removing the URLS
+5.Removing the uncessary whitespaces.
+6.Removing stopwords
+7.Lemmatization
+8.Stripping Possessives
+9.Removing Special Characters
+10.Expanding contractions
+11.Stemming (Snowball)
+12.Removing Punctuations
           
