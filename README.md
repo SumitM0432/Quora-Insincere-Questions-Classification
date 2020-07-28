@@ -22,4 +22,4 @@ PREPROCESSING TECHNIQUES -
 11.Stemming (Snowball)
 12.Removing Punctuations
 
-MODELS - Bert, Catboost, XgBoost, Random Forest, Logistics Regression, and Bag of words
+MODELS - Bert, Naive bayes, CNN and, Logistics Regression.
