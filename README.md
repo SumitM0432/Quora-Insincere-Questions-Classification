@@ -1,27 +1,10 @@
 # Quora-Insincere-Questions-Classification
-Quora Insincere Questions Classification Project Under Dr. Sri Phani Krishna Karri at NIT AP.
+Insincere Questions Classification using machine learning.
+Insincere questions are defined as questions that are unethical and have a disparaging tone. These types of questions are rather intended to make an inappropriate statement or comment than to search for a helpful and beneficent solution or answer. These insincere questions are classified using machine learning and  Transformers. The dataset used is from Quora, a question-answer forum containing the questions asked by the users. Several models are trained, Naive Bayes and Logistic Regression showing traditional machine learning methods, then Convolutional Neural Network and BERT language model representing some advanced methods.
 
-DATA SOURCE - https://www.kaggle.com/c/quora-insincere-questions-classification/data <br />
+Exploratory Data Analysis is done for the insights for the methodology and the preprocessed using various NLP techniques then Stanford GloVe embedding is used to increase the vocabulary coverage to see its effect on the model performance and 
 
-RESEARCH PAPER USED - http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26647500.pdf <br />
-                 https://arxiv.org/pdf/1810.04805.pdf <br />
+The details are given below:
+> Dataset - [Kaggle Quora Dataset](https://www.kaggle.com/c/quora-insincere-questions-classification/data) <br />
 
-LIBRARIES - pandas, numpy, matplotlib, seaborn, natural language processsing toolkit, regular expression, textblob, wordcloud, PIL, tensorflow, Keras, scikit learn, collections (will keep updating them).<br />
-
-PREPROCESSING TECHNIQUES -
-1.Lowercasing
-2.Removing HTML
-3.Removing Email-id
-4.Removing the URLS
-5.Removing the uncessary whitespaces.
-6.Removing stopwords
-7.Lemmatization
-8.Stripping Possessives
-9.Removing Special Characters
-10.Expanding contractions
-11.Stemming (Snowball)
-12.Removing Punctuations
-
-MODELS - Bert, Naive bayes, CNN and, Logistics Regression.
-
-Final Submission - https://drive.google.com/drive/folders/16wM0fso_SohQUxFHze-5qplPqm-o6xBB?usp=sharing
+> Published Research Paper - [Insincere Questions Classification Using CNN with Increased Vocabulary Coverage of GloVe Embedding](https://link.springer.com/article/10.1007/s40031-023-00858-3)
