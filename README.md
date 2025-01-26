@@ -6,4 +6,6 @@ Exploratory Data Analysis is done for the insights for the methodology and the p
 The details are given below:
 > Dataset - [Kaggle Quora Dataset](https://www.kaggle.com/c/quora-insincere-questions-classification/data) <br />
 
-> Published Research Paper - [Insincere Questions Classification Using CNN with Increased Vocabulary Coverage of GloVe Embedding](https://link.springer.com/article/10.1007/s40031-023-00858-3)
+> Published Research Paper - [Insincere Questions Classification Using CNN with Increased Vocabulary Coverage of GloVe Embedding](https://link.springer.com/article/10.1007/s40031-023-00858-3) <br />
+
+> Kaggle Notebook : [Notebook](https://www.kaggle.com/code/sumitm004/simple-bert-model-for-text-classification)
